@@ -1,1 +1,1 @@
-Some config for tmux bester
+Some config for tmux better
